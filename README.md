@@ -36,13 +36,11 @@ All parts are available via Digikey or AliExpress.
 
 CPU: ESP32 DEVKIT v1 Type-C
 
-Motor: Nidec 24H brushless motors (8 Wire Required)
+Battery: 3S1P LiPo 500 mAH (11.1V)
 
-Battery: 3S1P LiPo 500 mAH (11.1V). 
+Motor: Nidec 24H brushless motors (8 Pin Required)
 
-Buzzer: any 5V active buzzer.
-
-Voltage regulator: any 5V regulator (7805).
+Other: Regulator (L7805), Transistor 2N2222, 5V Active Buzzer, Capacitor 100uF / 0.1uF, Register 6.8k / 33k / 10k
 
 All red connections not nescesary for this project! But if you are designing a PCB I recommend making these connections. Maybe I use encoders in the future, you will be able to use the new firmware without any changes.
  
