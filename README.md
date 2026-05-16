@@ -7,13 +7,21 @@ Code is in "esp32_cube" folder.
 Pair via BlueTooth or USB Serial, there is a help menu:
 
 === Commands ===
+
 h or ?   - Show help
+
 a        - Toggle live angles
+
 d        - Toggle debug (Serial Monitor only)
+
 p+/p-    - Adjust K1
+
 i+/i-    - Adjust K2
+
 s+/s-    - Adjust K3
+
 c+       - Start calibration
+
 c-       - Save current position
 
 You can print redesigned cube https://www.thingiverse.com/thing:6695891
