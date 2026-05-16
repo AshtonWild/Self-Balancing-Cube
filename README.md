@@ -35,10 +35,15 @@ I created a PCB with KiCad, as it was cleaner than using a prototype board and p
 All parts are available via Digikey or AliExpress.  
 
 CPU: ESP32 DEVKIT v1 Type-C
+
 Motor: Nidec 24H brushless motors (8 Wire Required)
+
 Battery: 3S1P LiPo 500 mAH (11.1V). 
+
 Buzzer: any 5V active buzzer.
+
 Voltage regulator: any 5V regulator (7805).
+
 All red connections not nescesary for this project! But if you are designing a PCB I recommend making these connections. Maybe I use encoders in the future, you will be able to use the new firmware without any changes.
  
 How to build:
