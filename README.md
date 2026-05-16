@@ -6,17 +6,15 @@ Code is in "esp32_cube" folder.
 
 Pair via BlueTooth or USB Serial, there is a help menu:
 
-void showHelp() {
-  SerialBT.println("\n=== Commands ===");
-  SerialBT.println("h or ?   - Show help");
-  SerialBT.println("a        - Toggle live angles");
-  SerialBT.println("d        - Toggle debug (Serial Monitor only)");
-  SerialBT.println("p+/p-    - Adjust K1");
-  SerialBT.println("i+/i-    - Adjust K2");
-  SerialBT.println("s+/s-    - Adjust K3");
-  SerialBT.println("c+       - Start calibration");
-  SerialBT.println("c-       - Save current position");
-}
+=== Commands ===
+h or ?   - Show help
+a        - Toggle live angles
+d        - Toggle debug (Serial Monitor only)
+p+/p-    - Adjust K1
+i+/i-    - Adjust K2
+s+/s-    - Adjust K3
+c+       - Start calibration
+c-       - Save current position
 
 You can print redesigned cube https://www.thingiverse.com/thing:6695891
 
