@@ -30,7 +30,7 @@ Folow this video https://youtu.be/ZU0oTBRDgOE
 
 ---
 
-I created a PCB with KiCad, as it was cleaner than using a prototype board and provided GERBER files for PCB Manufacturing in "Gerber" 
+I created a PCB with KiCad, as it was cleaner than using a prototype board and provided GERBER files for PCB Manufacturing in "Gerber".  PCB was made using JLCPCB.
 
 All parts are available via Digikey or AliExpress.  
 
